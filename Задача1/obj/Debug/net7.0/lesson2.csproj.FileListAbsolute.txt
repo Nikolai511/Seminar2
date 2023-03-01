@@ -1,0 +1,15 @@
+/home/nikolai/Рабочий стол/lesson2/bin/Debug/net7.0/lesson2
+/home/nikolai/Рабочий стол/lesson2/bin/Debug/net7.0/lesson2.deps.json
+/home/nikolai/Рабочий стол/lesson2/bin/Debug/net7.0/lesson2.runtimeconfig.json
+/home/nikolai/Рабочий стол/lesson2/bin/Debug/net7.0/lesson2.dll
+/home/nikolai/Рабочий стол/lesson2/bin/Debug/net7.0/lesson2.pdb
+/home/nikolai/Рабочий стол/lesson2/obj/Debug/net7.0/lesson2.csproj.AssemblyReference.cache
+/home/nikolai/Рабочий стол/lesson2/obj/Debug/net7.0/lesson2.GeneratedMSBuildEditorConfig.editorconfig
+/home/nikolai/Рабочий стол/lesson2/obj/Debug/net7.0/lesson2.AssemblyInfoInputs.cache
+/home/nikolai/Рабочий стол/lesson2/obj/Debug/net7.0/lesson2.AssemblyInfo.cs
+/home/nikolai/Рабочий стол/lesson2/obj/Debug/net7.0/lesson2.csproj.CoreCompileInputs.cache
+/home/nikolai/Рабочий стол/lesson2/obj/Debug/net7.0/lesson2.dll
+/home/nikolai/Рабочий стол/lesson2/obj/Debug/net7.0/refint/lesson2.dll
+/home/nikolai/Рабочий стол/lesson2/obj/Debug/net7.0/lesson2.pdb
+/home/nikolai/Рабочий стол/lesson2/obj/Debug/net7.0/lesson2.genruntimeconfig.cache
+/home/nikolai/Рабочий стол/lesson2/obj/Debug/net7.0/ref/lesson2.dll
